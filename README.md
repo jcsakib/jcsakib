@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Sakib Al Hasan</h1>
 <h3 align="center">It's me Sakib, an experienced web designer and developer or game developer. I have more than 4+ years of experience in web design and development or 1+ years of experience in game developing.</h3>
 <img align="right" alt="coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXBrYXc1cWZkbzV0emQyY2xncjZ0ZmIza203YnRlYmk3bWVrbzRoOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xaO6TmgQmKEQ4516sE/giphy.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jcsakib&label=Profile%20views&color=0e75b6&style=flat" alt="jcsakib" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jcsakib&label=Profile%20views&color=0e75b6&style=flat" alt="jcsakib"> </p>
 
 - 🔭 I’m currently working on [WomenFashionQa](https://womenfashionqa.com)
 
